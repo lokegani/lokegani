@@ -14,9 +14,9 @@
 ### 🧠 About Me
 I'm a 3rd-year Electronics & Communication Engineering student at Velammal Engineering College, focused on **embedded systems and IoT**. I like taking things from breadboard → working prototype, and understanding what's happening at the register/protocol level, not just calling library functions.
 
-- 🔭 Currently building: **[S.E.E.D(Social Emotional and Early Detection]**
+- 🔭 Currently building: **S.E.E.D(Social Emotional and Early Detection**
 - 🌱 Currently learning: **Data Analytics**
-- 💬 Ask me about: **[ESP32, ArduinoIDE, IoT sensor interfacing]**
+- 💬 Ask me about: **ESP32, ArduinoIDE, IoT sensor interfacing**
 - 📫 Reach me: **[lokegani2006@gmail.com]** | **[(https://www.linkedin.com/in/lokeshkumar-k-616656299/)]** | **[Portfolio, if any]**
 
 ---
