@@ -14,22 +14,22 @@
 ### 🧠 About Me
 I'm a 3rd-year Electronics & Communication Engineering student at Velammal Engineering College, focused on **embedded systems and IoT**. I like taking things from breadboard → working prototype, and understanding what's happening at the register/protocol level, not just calling library functions.
 
-- 🔭 Currently building: **[Project name — one line on what it does]**
+- 🔭 Currently building: **[S.E.E.D(Social Emotional and Early Detection]**
 - 🌱 Currently learning: **Data Analytics**
-- 💬 Ask me about: **[e.g. UART/I2C/SPI debugging, STM32, sensor interfacing]**
+- 💬 Ask me about: **[ESP32, ArduinoIDE, IoT sensor interfacing]**
 - 📫 Reach me: **[lokegani2006@gmail.com]** | **[(https://www.linkedin.com/in/lokeshkumar-k-616656299/)]** | **[Portfolio, if any]**
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🔹 [Project 1 Name]
+#### 🔹 [Loco - Hazard Detection Helmet]
 [One or two lines: what it does, what problem it solves]
 - **Stack:** [MCU/board] · [protocol/sensors] · [language]
 - **Highlight:** [Something specific — e.g. "switched from polling to interrupt-driven ADC reads to cut latency by X%"]
 - 🔗 [Repo link]
 
-#### 🔹 [Project 2 Name]
+#### 🔹 [S.E.E.D(Social Emotional and Early Detection]
 [One or two lines: what it does, what problem it solves]
 - **Stack:** [MCU/board] · [protocol/sensors] · [language]
 - **Highlight:** [Something specific about your engineering decision or debugging]
