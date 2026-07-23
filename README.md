@@ -14,22 +14,22 @@
 ### 🧠 About Me
 I'm a 3rd-year Electronics & Communication Engineering student at Velammal Engineering College, focused on **embedded systems and IoT**. I like taking things from breadboard → working prototype, and understanding what's happening at the register/protocol level, not just calling library functions.
 
-- 🔭 Currently building: **S.E.E.D(Social Emotional and Early Detection**
+- 🔭 Currently building: **S.E.E.D(Social Emotional and Early Detection)**
 - 🌱 Currently learning: **Data Analytics**
-- 💬 Ask me about: **ESP32, ArduinoIDE, IoT sensor interfacing**
+- 💬 Ask me about: **ESP32, ArduinoIDE, IoT, sensor interfacing**
 - 📫 Reach me: **lokegani2006@gmail.com** | **https://www.linkedin.com/in/lokeshkumar-k-616656299/** | **[Portfolio, if any]**
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🔹 [Loco - Hazard Detection Helmet]
+#### 🔹 Loco - Hazard Detection Helmet
 Programmed embedded firmware in C/C++ (Arduino IDE) integrating LCD, buzzer, temperature, and GPS modules on ESP32 for real-time hazard detection. Built live GPS tracking and a monitoring dashboard,triggering instant safety alerts on sensor threshold breaches. Delivered a low-cost, scalable safety solution for industrial workers in hazardous environments.
 - **Stack:** [MCU/board] · [protocol/sensors] · [language]
 - **Highlight:** [Something specific — e.g. "switched from polling to interrupt-driven ADC reads to cut latency by X%"]
 - 🔗 [Repo link]
 
-#### 🔹 [S.E.E.D(Social Emotional and Early Detection]
+#### 🔹 S.E.E.D(Social Emotional and Early Detection
 Co-developed the research and screening methodology with a project partner, mapping behavioral markers(gaze tracking, social imitation) to DSM-5 criteria to address India’s delayed autism diagnosis age. Co-authored the paper and built the presentation materials as part of a 6-member team; won Runner-Up at the paper presentation at Madras Institute of Technology.
 - **Stack:** [MCU/board] · [protocol/sensors] · [language]
 - **Highlight:** [Something specific about your engineering decision or debugging]
