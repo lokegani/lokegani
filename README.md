@@ -24,13 +24,13 @@ I'm a 3rd-year Electronics & Communication Engineering student at Velammal Engin
 ### 🚀 Featured Projects
 
 #### 🔹 [Loco - Hazard Detection Helmet]
-[One or two lines: what it does, what problem it solves]
+[Programmedembeddedfirmware inC/C++(Arduino IDE) integratingLCD, buzzer, temperature, andGPS modulesonESP32forreal-timehazarddetection. •BuiltliveGPStrackingandamonitoringdashboard,triggeringinstantsafetyalertsonsensorthresholdbreaches. •Delivereda low-cost, scalable safetysolution for industrialworkersinhazardousenvironments.]
 - **Stack:** [MCU/board] · [protocol/sensors] · [language]
 - **Highlight:** [Something specific — e.g. "switched from polling to interrupt-driven ADC reads to cut latency by X%"]
 - 🔗 [Repo link]
 
 #### 🔹 [S.E.E.D(Social Emotional and Early Detection]
-[One or two lines: what it does, what problem it solves]
+[Co-developed the research and screeningmethodology withaprojectpartner,mappingbehavioralmarkers(gaze tracking, social imitation) toDSM-5criteriatoaddress India’sdelayedautismdiagnosisage. •Co-authoredthepaperandbuiltthepresentationmaterialsaspartofa6-memberteam;wonRunner-Upatthe paperpresentationatMadrasInstituteofTechnology.]
 - **Stack:** [MCU/board] · [protocol/sensors] · [language]
 - **Highlight:** [Something specific about your engineering decision or debugging]
 - 🔗 [Repo link]
